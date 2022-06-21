@@ -1,4 +1,4 @@
 input output
 "/var/log/nginx/access_pages.log.1" "/home/carlos/logs_nginx/datanalytics"
-"/var/log/nginx/pienso_access.log.1" "/home/carlos/logs_nginx/pienso_luego"
+"/var/log/nginx/pienso_pages.log.1" "/home/carlos/logs_nginx/pienso_luego"
 "/var/log/nginx/access_circiter.log.1" "/home/carlos/logs_nginx/circiter"
